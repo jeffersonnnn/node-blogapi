@@ -4,17 +4,10 @@ Simple blog created using Node.js for landlagos.com
 
 ### Installing packages
 
-Install backend packages
+Install backend
 
 ```
 cd server/
-npm i
-```
-
-Install frontend packages
-
-```
-cd client/
 npm i
 ```
 
